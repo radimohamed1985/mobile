@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.topnav{
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+.navbar{
+    margin-top: -40px;
+
+}
+.navbar img{
+    width: 200px;
+    height: 200px;
+}
+
+.rightsidebar{
+    width:max-content;
+    height:fit-content;
+    background-color: #EEE;
+    margin-left: 15px;
+}
+.rightsidebar .card{
+    border-radius: 15px;
+    margin: 10px 0 20px;
+}
+.leftsidebar{
+    width: fit-content;
+    height: fit-content;
+    background-color: #EEE;
+    margin-right: 15px;
+ 
+}
+.leftsidebar .card{
+    border-radius: 15px;
+    margin: 10px 0 20px;
+}
+.about-us{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    background-color: #EEE;
+}
